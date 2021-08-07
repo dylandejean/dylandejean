@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Dylan DeJean
+
+## I am pursuing a bachelor's in statistics at the Pennsylvania State University
+## I am currently learning machine learning in Python on my own and advanced statistical inferencing in R through my university classes.
+## My github page consists of repositories for projects in R that I have worked on in some of my classes as well as repositories showing my progress with Python machine learning.
+## LinkedIn: https://www.linkedin.com/in/dylan-dejean-672472217/
+## Email: dylandejean@gmail.com
+
 
 <!--
 **dylandejean/dylandejean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
