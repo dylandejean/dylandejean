@@ -1,6 +1,7 @@
 ### Hi, I'm Dylan DeJean
 
-- I am pursuing a bachelor's in statistics at the Pennsylvania State University
+- I am a recent grad from The Pennsylvania State University with a Bachelor of Science in Statistics.
+- The repositories here consist of some of my class work as well as any independent work I have done.
 - Email: dylandejean@gmail.com
 
 
